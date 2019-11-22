@@ -95,7 +95,6 @@ a:hover {
 }
 
 .post-author img {
-
   border-radius: 50%;
   width: 200px;
   height: 300px;
@@ -103,8 +102,18 @@ a:hover {
   float: left;
 }
 
+.post-julius img {
+  border-radius: 50%;
+  width: 300px;
+  height: 200px;
+  padding: 25px;
+  float: left;
+}
+
 .about-author img {
   border-radius: 50%;
+  width: 600px;
+  height: 400px;
 }
 
 .post-author span {
